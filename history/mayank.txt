@@ -1,0 +1,3 @@
+name:Mayank
+age:22
+crime:unkown

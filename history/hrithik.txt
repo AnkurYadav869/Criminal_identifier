@@ -1,0 +1,3 @@
+name:Hrithik
+age:52
+crime:unkown
