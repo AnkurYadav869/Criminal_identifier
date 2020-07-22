@@ -1,3 +1,0 @@
-name:Salim
-age:20
-crime:unkown
